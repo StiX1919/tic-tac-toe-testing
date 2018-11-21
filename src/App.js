@@ -5,6 +5,8 @@ import './App.css';
 import Board from './components/Board/Board'
 
 class App extends Component {
+
+  // prep for tests tomorrow
   render() {
     return (
       <div className="App">
